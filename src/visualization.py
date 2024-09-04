@@ -1,7 +1,9 @@
 import os
-from exercises.exercise_controls import list_exercises, add_exercise
-from mail.mailing import mail_workout
-from workouts.workout_controls import add_workouts, list_workouts, record_workout_performance
+
+from src.exercises.exercise_controls import add_exercise, list_exercises
+from src.mail.mailing import mail_workout
+from src.workouts.workout_controls import add_workouts, record_workout_performance, list_workouts
+
 
 def show_main_menu():
 

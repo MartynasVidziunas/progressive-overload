@@ -1,5 +1,6 @@
 import uuid
-from exercises.exercise import Exercise
+
+from src.exercises.exercise import Exercise
 
 class Workout:
 

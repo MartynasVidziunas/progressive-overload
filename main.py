@@ -1,4 +1,5 @@
-from visualization import show_main_menu
+from src.visualization import show_main_menu
+
 
 def main():
     show_main_menu()

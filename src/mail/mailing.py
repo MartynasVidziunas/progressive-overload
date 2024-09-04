@@ -6,8 +6,8 @@ import os
 import smtplib
 from dotenv import load_dotenv
 import re
+from src.workouts.workout import Workout
 
-from workouts.workout import Workout 
 
 load_dotenv()
 
@@ -96,8 +96,10 @@ def is_valid_email(email):
 def mail_workout():
 
     while True:
-        email = input("Enter your email: ").strip()
-        if is_valid_email(email):
+        email = input("\nEnter your email or type 'q' to go quit: ").strip()
+        if email == 'q':
+            break
+        elif is_valid_email(email):
             selected_workout = list_workouts()
             if selected_workout:
                 send_workout_report_via_email(selected_workout, email)

@@ -1,9 +1,10 @@
 
 
-from data.data_controls import load_data, save_data
-from exercises.exercise import Exercise
-from workouts.workout import Workout
+from src.data_controls import load_data, save_data
 import json
+
+from src.exercises.exercise import Exercise
+from src.workouts.workout import Workout
 
 def list_workouts(page_size = 5):
     workouts = load_data('data/workouts.json', Workout)

@@ -1,41 +1,41 @@
 [
     {
-        "id": "0b3176b7-2201-4cd0-98e1-66c7072672a8",
-        "name": "Monday",
+        "id": "3d7d3b7d-610f-45b5-83f8-0341dfb51ba7",
+        "name": "Upper body",
         "exercises": [
             {
-                "id": "cafb27ed-fced-414d-beff-b997bdeb25d4",
-                "name": "Squat",
+                "id": "66488659-8f2a-4a84-9f91-dc5d9b8989a2",
+                "name": "Chest press",
                 "history": [
                     {
                         "sets": 3,
-                        "reps": 5,
-                        "weight": 25.0,
-                        "date": "2024-09-03T11:19:28.036383"
+                        "reps": 7,
+                        "weight": 10.0,
+                        "date": "2024-09-04"
                     }
                 ]
             },
             {
-                "id": "a2c12dc5-d53c-453c-ba3e-0b7b03e64448",
-                "name": "Deadlift",
-                "history": [
-                    {
-                        "sets": 5,
-                        "reps": 6,
-                        "weight": 25.0,
-                        "date": "2024-09-03T11:19:53.298403"
-                    }
-                ]
-            },
-            {
-                "id": "09e7e110-0419-4bb3-a09e-9e89a7b801d6",
-                "name": "Pull up",
+                "id": "a30f3f99-155d-470b-9bf3-2d5f98485065",
+                "name": "Push up",
                 "history": [
                     {
                         "sets": 3,
-                        "reps": 6,
+                        "reps": 20,
                         "weight": 78.0,
-                        "date": "2024-09-03T11:20:07.282634"
+                        "date": "2024-09-04"
+                    }
+                ]
+            },
+            {
+                "id": "203999ee-cc25-4b54-add8-604e02a3b4f4",
+                "name": "Overhead press",
+                "history": [
+                    {
+                        "sets": 3,
+                        "reps": 10,
+                        "weight": 12.0,
+                        "date": "2024-09-04"
                     }
                 ]
             }

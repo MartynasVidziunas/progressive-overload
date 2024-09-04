@@ -1,8 +1,7 @@
 from datetime import datetime
-
 from matplotlib import pyplot as plt
-from data.data_controls import load_data, save_data
-from exercises.exercise import Exercise
+from src.data_controls import load_data, save_data
+from src.exercises.exercise import Exercise
 
 
 def add_exercise():
@@ -40,7 +39,6 @@ def list_exercises(page_size=5):
     current_page = 0
 
     while True:
-        # Display current page of exercises
         start_index = current_page * page_size
         end_index = min(start_index + page_size, total_exercises)
 

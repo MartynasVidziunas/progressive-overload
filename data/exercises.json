@@ -1,26 +1,15 @@
 [
     {
-        "id": "63c9ac30-c550-47d7-b2ff-982076b6db43",
-        "name": "Deadlift",
+        "id": "fcba2983-f0b1-452a-8213-bc03c9a56041",
+        "name": "Push up",
         "history": [
             {
                 "sets": 3,
-                "reps": 5,
-                "weight": 30.0,
-                "date": "2024-09-02"
-            },
-            {
-                "sets": 3,
-                "reps": 6,
-                "weight": 31.0,
-                "date": "2024-09-03"
+                "reps": 7,
+                "weight": 78.0,
+                "date": "2024-09-04"
             }
         ]
-    },
-    {
-        "id": "fcba2983-f0b1-452a-8213-bc03c9a56041",
-        "name": "Push up",
-        "history": []
     },
     {
         "id": "a4bfd72e-b98a-4e37-827e-93f737db6538",
@@ -65,6 +54,30 @@
                 "reps": 6,
                 "weight": 30.0,
                 "date": "2024-09-03"
+            }
+        ]
+    },
+    {
+        "id": "745ceacb-6207-427b-ae26-80ba87482bad",
+        "name": "Chest press",
+        "history": [
+            {
+                "sets": 3,
+                "reps": 11,
+                "weight": 13.0,
+                "date": "2024-09-04"
+            }
+        ]
+    },
+    {
+        "id": "27e74ae4-7068-46c5-9b3c-823f93a60a9a",
+        "name": "Overhead press",
+        "history": [
+            {
+                "sets": 3,
+                "reps": 13,
+                "weight": 8.0,
+                "date": "2024-09-04"
             }
         ]
     }
