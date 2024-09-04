@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0b3176b7-2201-4cd0-98e1-66c7072672a8",
+        "name": "Monday",
+        "exercises": [
+            {
+                "id": "cafb27ed-fced-414d-beff-b997bdeb25d4",
+                "name": "Squat",
+                "history": [
+                    {
+                        "sets": 3,
+                        "reps": 5,
+                        "weight": 25.0,
+                        "date": "2024-09-03T11:19:28.036383"
+                    }
+                ]
+            },
+            {
+                "id": "a2c12dc5-d53c-453c-ba3e-0b7b03e64448",
+                "name": "Deadlift",
+                "history": [
+                    {
+                        "sets": 5,
+                        "reps": 6,
+                        "weight": 25.0,
+                        "date": "2024-09-03T11:19:53.298403"
+                    }
+                ]
+            },
+            {
+                "id": "09e7e110-0419-4bb3-a09e-9e89a7b801d6",
+                "name": "Pull up",
+                "history": [
+                    {
+                        "sets": 3,
+                        "reps": 6,
+                        "weight": 78.0,
+                        "date": "2024-09-03T11:20:07.282634"
+                    }
+                ]
+            }
+        ]
+    }
+]
