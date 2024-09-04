@@ -11,7 +11,6 @@ Progressive Overload is a Python-based application designed to help you track an
  - Features
  - Installation
  - Usage
- - License
 
 ## Features
 
